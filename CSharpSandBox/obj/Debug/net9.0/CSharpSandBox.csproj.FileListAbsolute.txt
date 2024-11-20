@@ -1,0 +1,14 @@
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/bin/Debug/net9.0/CSharpSandBox
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/bin/Debug/net9.0/CSharpSandBox.deps.json
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/bin/Debug/net9.0/CSharpSandBox.runtimeconfig.json
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/bin/Debug/net9.0/CSharpSandBox.dll
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/bin/Debug/net9.0/CSharpSandBox.pdb
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/obj/Debug/net9.0/CSharpSandBox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/obj/Debug/net9.0/CSharpSandBox.AssemblyInfoInputs.cache
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/obj/Debug/net9.0/CSharpSandBox.AssemblyInfo.cs
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/obj/Debug/net9.0/CSharpSandBox.csproj.CoreCompileInputs.cache
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/obj/Debug/net9.0/CSharpSandBox.dll
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/obj/Debug/net9.0/refint/CSharpSandBox.dll
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/obj/Debug/net9.0/CSharpSandBox.pdb
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/obj/Debug/net9.0/CSharpSandBox.genruntimeconfig.cache
+/Users/sebastianhernandez/Documents/CSharpSandBox/CSharpSandBox/obj/Debug/net9.0/ref/CSharpSandBox.dll
